@@ -60,5 +60,5 @@ logging:
   level:
     root: info
 kjfile:
-  rootpath: /home/deployer/BTN/webapps
+  rootpath: /home/deployer/BTN/webapps1111
   fileSize: 10
