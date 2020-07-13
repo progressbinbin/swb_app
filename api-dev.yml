@@ -50,15 +50,15 @@ spring:
       hibernate:
         format_sql=true:
     show-sql: true
+  rabbitmq:
+    host: 139.129.219.77
   jackson:
     serialization:
       write-dates-as-timestamps: true
-  rabbitmq:
-    host: 139.129.219.77
 logging:
   path: ../logs/api/log
   level:
     root: info
 kjfile:
-  rootpath: /home/deployer/BTN/webapps1111xxx
+  rootpath: /home/deployer/BTN/webapps1111xxxYY
   fileSize: 10
