@@ -53,6 +53,8 @@ spring:
   jackson:
     serialization:
       write-dates-as-timestamps: true
+  rabbitmq:
+    host: 139.129.219.77
 logging:
   path: ../logs/api/log
   level:
